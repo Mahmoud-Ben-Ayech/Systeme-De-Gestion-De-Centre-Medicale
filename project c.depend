@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1640216939 source:c:\users\dridi\desktop\projet c&&\project c\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"mabib.h"
+	<stdio.h>
+	<stdlib.h>
+	"mabib.c"
+
+1640644866 c:\users\dridi\desktop\projet c&&\project c\mabib.h
+
+1640642691 source:c:\users\dridi\desktop\projet c&&\project c\mabib.c
+	<stdio.h>
+	"mabib.h"
+
+1640642691 c:\users\dridi\desktop\projet c&&\project c\mabib.c
+	<stdio.h>
+	"mabib.h"
+
+1640854545 source:c:\users\mahmoud\desktop\projet final c\mabib.c
+	<stdio.h>
+	"mabib.h"
+
+1640854623 c:\users\mahmoud\desktop\projet final c\mabib.h
+
+1640853273 source:c:\users\mahmoud\desktop\projet final c\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"mabib.h"
+	<stdio.h>
+	<stdlib.h>
+
+1673908543 source:d:\enicarthage\projet universitaire amelioree\projet final c\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"mabib.h"
+	<stdio.h>
+	<stdlib.h>
+
+1673891355 d:\enicarthage\projet universitaire amelioree\projet final c\mabib.h
+
+1673899356 source:d:\enicarthage\projet universitaire amelioree\projet final c\mabib.c
+	<stdio.h>
+	"mabib.h"
+
+1673899356 source:d:\enicarthage\projet universitaire amelioree\final project c\mabib.c
+	<stdio.h>
+	"mabib.h"
+
+1673891355 d:\enicarthage\projet universitaire amelioree\final project c\mabib.h
+
+1673909298 source:d:\enicarthage\projet universitaire amelioree\final project c\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"mabib.h"
+	<stdio.h>
+	<stdlib.h>
+
