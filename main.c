@@ -73,7 +73,7 @@ int main()
     }
 
     while(1){
-            system("cls");
+    system("cls");
     if (test==6) break;
     printf("\n ******* Application de Gestion du Cabinet Medical ****** \n \n  ");
     printf("veuiller choisir une choix a faire  \n ");
