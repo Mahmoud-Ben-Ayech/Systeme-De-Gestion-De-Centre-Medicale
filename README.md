@@ -6,4 +6,4 @@ to run this project you need just to install the project and run file main.c
 
 **Elements needs to be installed :**
 
-you need only the  c language installed in your pc and an editer to open project 
+you need only the  c language installed in your pc and an IDE to open project 
