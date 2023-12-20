@@ -1,4 +1,4 @@
-# System De Gestion De Centre Medicale
+# Medical Center Management System
 
 **Details of Running the project :**
 
